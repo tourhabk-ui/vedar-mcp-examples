@@ -1,0 +1,1 @@
+{ "mcpServers": { "vedar": { "type": "http", "url": "https://vedarai.ru/api/mcp" } } }

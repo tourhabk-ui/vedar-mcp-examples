@@ -1,0 +1,1 @@
+{"name":"vedar-mcp","version":"1.0.0","description":"Config helper for the Vedar Kamchatka travel MCP server (https://vedarai.ru/api/mcp)","bin":{"vedar-mcp":"bin/cli.js"},"main":"index.js","license":"MIT","keywords":["mcp","kamchatka","travel","a2a","model-context-protocol"],"homepage":"https://vedarai.ru/mcp","repository":"github:tourhabk-ui/vedar-mcp-examples"}
